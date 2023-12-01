@@ -1,0 +1,28 @@
+/*
+Theme Name: bthinq
+Author: sankaralingam
+Description: Your theme description
+Version: 1.0
+Screenshot: screenshot.jpg
+*/
+
+/* Add your styles below */
+/* Base styles */
+
+/* Mobile styles */
+@media screen and (max-width: 768px) {
+    /* Adjust styles for smaller screens */
+}
+
+/* Tablet styles */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    /* Adjust styles for tablets */
+}
+
+/* Desktop styles */
+@media screen and (min-width: 1025px) {
+    /* Adjust styles for larger screens */
+}
+.bg-secondary {
+    background-color: #854c4c !important;
+}
