@@ -159,7 +159,7 @@ Template Name: Landing Page
         </div>
         <!-- About End -->
 
-
+ 
         <!-- Story Start -->
         <div class="container-fluid story position-relative py-5" id="weddingStory">
             
